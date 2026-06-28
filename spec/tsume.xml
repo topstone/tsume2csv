@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 2094  -->
+  <question type="tsumeshogi">
+    <name>
+      <text>003</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>問題3</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>正解: 5二金</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <sfen>4k4/9/4P4/9/9/9/9/9/9 b G17p4l4n4s3g2b2r 1</sfen>
+    <correctanswer>G*5b</correctanswer>
+  </question>
+
+<!-- question: 2093  -->
+  <question type="tsumeshogi">
+    <name>
+      <text>004</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>問題4</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text><![CDATA[<p>正解: 2三桂不成</p>]]></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.0000000</penalty>
+    <hidden>0</hidden>
+    <idnumber></idnumber>
+    <sfen>6snk/7bl/8p/9/6N2/9/9/9/9 b 17p3l2n3s4gb2r 1</sfen>
+    <correctanswer>3e2c</correctanswer>
+  </question>
+
+</quiz>
