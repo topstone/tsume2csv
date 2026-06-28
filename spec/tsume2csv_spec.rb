@@ -70,15 +70,19 @@ RSpec.describe "tsume2csv_convert" do
       it "name が正しい" do
         expect(row[0]).to eq expected[:name]
       end
+
       it "qtext が正しい" do
         expect(row[1]).to eq expected[:qtext]
       end
+
       it "feedback が正しい" do
         expect(row[2]).to eq expected[:feedback]
       end
+
       it "answer が正しい" do
         expect(row[3]).to eq expected[:answer]
       end
+
       it "sfen が正しい" do
         expect(row[4]).to eq expected[:sfen]
       end
